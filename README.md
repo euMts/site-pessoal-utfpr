@@ -71,6 +71,10 @@ site-pessoal-utfpr/
 
   
 
+**🌐 Site Online:** [https://eumts.github.io/site-pessoal-utfpr/](https://eumts.github.io/site-pessoal-utfpr/)
+
+  
+
 1. Clone ou baixe o repositório
 
 2. Abra o arquivo `index.html` em qualquer navegador web
@@ -97,7 +101,7 @@ site-pessoal-utfpr/
 
   
 
-05/09/2025
+09/01/2025
 
   
 
